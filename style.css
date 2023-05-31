@@ -1,0 +1,86 @@
+.name {
+    margin-left: 500px;
+  }
+.id {
+    margin-left: 500px;
+  }
+  .project {
+    margin-left: 500px;
+  }
+  table {
+    margin-left: 350px;
+    margin-top: 20px;
+  }
+  .table_2{
+    margin-top: -40px;
+  }
+  .from {
+    width: 500px;
+    height: 300px;
+    background-color:papayawhip;
+    border-radius: 15px;
+    margin-left: 350px;
+    border: 60px solid rgb(223, 171, 103) ;
+    border-radius: 7px;
+  }
+  .sign {
+    background-color: grey;
+    border-radius: 6px;
+    cursor: pointer;
+    height: 30px;
+    width: 150px;
+    margin-left: 180px;
+    font-weight: bold;
+  }
+  .can{
+    background-color: grey;
+    border-radius: 6px;
+    cursor: pointer;
+    height: 30px;
+    width: 150px;
+    margin-left: 180px;
+    font-weight: bold;
+    margin-bottom: 10px;
+  }
+  .welcome{
+  margin-left: 10;
+  color:black;
+  font-weight: bold;
+  font-size: 40px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-top: -50px;
+  margin-left: 180px;
+  }
+  .admin{
+    margin-left: 150px;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 35px;
+    border-bottom: 3px solid red;
+    border-radius: 2px;
+  }
+  .usr{
+    margin-left: 180px;
+    color: black;
+  }
+  .input-1{
+    margin-left: 180px;
+    border-radius: 8px;
+    margin-top: 15px;
+  }
+  .input-2{
+    margin-left: 180px;
+    border-radius: 8px;
+    margin-top: 10px;
+  }
+  .pass{
+    margin-left: 180px;
+    margin-top: 20px;
+    color:black;
+  }
+  p {
+    font-weight: bold;
+    font-size: 20px;
+    color:rgb(17, 15, 15);
+    margin-left:500px;
+  }
